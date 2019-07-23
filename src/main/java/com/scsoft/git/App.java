@@ -9,6 +9,7 @@ public class App {
         System.out.println("第一次修改");
         System.out.println("第二次修改");
         System.out.println("这个是first_branch分支中的修改");
+        System.out.println("这个是first_branch分支中的第二次修改");
 
     }
 }
